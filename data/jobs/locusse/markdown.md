@@ -1,0 +1,7 @@
+- Rewrote an existing Flex and Cold Fusion web application with AngularJS and J2EE REST API
+- Collaborated with a small team designing the new web application’s software architecture
+- Developed a client side single page CRUD application using the Angular JS featuring: a database configurable UI, nested routing, reusable components, central HTTP request handling, form validation.
+- Designed a responsive UI/UX with SASS and Bootstrap 3 using a mobile first design approach
+- Designed data structures for RESTful APIs; including forms, grids, and dashboard entities
+- Improved an existing database design to better facilitate data management, retrieval, and scalability
+- Using a GIS API I had previously written as a contractor with Locus, wrote a web mapping application using AngularJS

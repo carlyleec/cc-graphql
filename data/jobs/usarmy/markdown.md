@@ -1,0 +1,4 @@
+- Conducted operations in Italy, Bulgaria, Romania, Kosovo, Macedonia (FYROM), Turkey, Kuwait, and Iraq for a Movement Control Team
+- Executed technical expertise under a range of conditions, including combat zones, conducting truck, rail, and air transport operations
+- Used US Army computer programs to plan the movement of units and maintain in-transit visibility
+- Created rail and truck builds, and prepared diplomatic clearances & customs documentation

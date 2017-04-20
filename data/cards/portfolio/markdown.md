@@ -1,0 +1,4 @@
+### This Site
+The plan is to use this site as a place where I can test out new technologies on the both the back and front-end. I’m currently in the process of building out the first version of this site in React with some static Markdown and JavaScript data loaded via Webpack, but I will be implementing two separate backends in GraphQL and Express (REST) very soon.  On the front-end, I’m planning to duplicate this site using Angular (and maybe Vue and Ember if I get a chance). In addition, I’m also taking this opportunity to learn more about how AWS infrastructure works together. This site is currently deployed on AWS Cloudfront from an S3 bucket with DNS configured in Route53. I’m eager to explore how these technologies interact with AWS RDS, Lambda, and API gateway. You can check out the code for the React version [here](https://github.com/carlyleec/cc-react).
+
+### Other Work

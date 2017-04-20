@@ -1,0 +1,7 @@
+- Rapidly developed a replacement to a mission-critical web service using Node, Express, and Heroku: check it out [here](http://www.mapwnc.org/)
+- Developed a simple real-time AngularJS application called [Where's Parking](http://www.ashevillenc.gov/departments/parking/find_parking.htm) to display up to the minute parking information to the public for the City of Asheville
+- Assisted in recovery efforts following a catastrophic failure of core IT GIS infrastructure by rapidly redeploying critical applications
+- Helped implement an  upgrade of the entire GIS infrastructure for the City of Asheville
+- Diagnosed and resolved GIS and database issues for departments across the City of Asheville
+- Worked with team members to develop a new data architecture of the City of Asheville
+- Worked with team members to develop a new version of the City of Asheville's [SimpliCity](http://simplicity.ashevillenc.gov/#/search) web app using React, Redux, and GraphQL

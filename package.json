@@ -1,0 +1,26 @@
+{
+  "name": "cc-graphql",
+  "version": "1.0.0",
+  "description": "A Serverless GraphQL backend for my resume/portfolio site",
+  "main": "index.js",
+  "repository": "https://github.com/carlyleec/cc-graphql.git",
+  "author": "carlyleec <carlyleec@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node devServer.js",
+  },
+  "dependencies": {
+    "express": "^4.15.2",
+    "express-graphql": "^0.6.3",
+    "graphql": "^0.9.1",
+    "lodash": "^4.17.4"
+  },
+  "devDependencies": {
+    "eslint": "^3.19.0",
+    "eslint-config-airbnb": "^14.1.0",
+    "eslint-plugin-import": "^2.2.0",
+    "eslint-plugin-jest": "^19.0.1",
+    "eslint-plugin-jsx-a11y": "^4.0.0",
+    "eslint-plugin-react": "^6.10.3"
+  }
+}

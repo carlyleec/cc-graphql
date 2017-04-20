@@ -1,0 +1,16 @@
+service: cc-graphql
+provider:
+  name: aws
+  runtime: nodejs6.10
+functions:
+  graphql:
+    handler: handler.graphql
+    events:
+      - http:
+          path: graphql
+          method: post
+          cors: true
+      - http:
+          path: graphql
+          method: get
+          cors: true

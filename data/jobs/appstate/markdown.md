@@ -1,0 +1,4 @@
+- Managed a water quality monitoring program in the Upper South Fork of New River, NC
+- Maintained a database of over 400,000 water quality measurements
+- Collected and statistically analyzed stream water samples and measurements (using SPSS)
+- Instructed labs in GIS, Python & VBA programming, ArcHydro, HEC-RAS, and environmental science

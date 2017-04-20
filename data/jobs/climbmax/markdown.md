@@ -1,0 +1,4 @@
+- Helped with general gym operations
+- Set climbing routes
+- Instructed belay and climbing classes
+- Had a great time!

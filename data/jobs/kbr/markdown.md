@@ -1,0 +1,5 @@
+- Assisted US Army and Marines with Movement Control Team operations
+- Managed a database tracking the location and status of vehicle platforms in the area of operations
+- Monitored and eliminated the backlog of transportation assets
+- Received inbound cargo and notified consignees of cargo arrival to ensure timely pickup of cargo
+- Manifested and staged outbound convoys

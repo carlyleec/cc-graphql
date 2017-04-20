@@ -1,0 +1,3 @@
+- Managed inventory
+- Provided customer service
+- Helped out my dad

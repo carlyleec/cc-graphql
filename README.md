@@ -6,7 +6,7 @@ GraphQL endpoint:
 
 It's deployed as an AWS Lambda function using the [Serverless Framework](https://serverless.com/)
 
-I don't have a public GraphiQL endpoint set up yet, but you can interact with the API using [GraphiQL App](https://github.com/skevy/graphiql-app) or the Chrome extension [ChromeiQL](https://chrome.google.com/webstore/detail/chromeiql/fkkiamalmpiidkljmicmjfbieiclmeij?hl=en).
+You can interact with the API at [http://www.cameroncarlyle.com/graphiql](http://www.cameroncarlyle.com/graphiql) or you could use [GraphiQL App](https://github.com/skevy/graphiql-app) or the Chrome extension [ChromeiQL](https://chrome.google.com/webstore/detail/chromeiql/fkkiamalmpiidkljmicmjfbieiclmeij?hl=en).
 
 
 ## Getting Started

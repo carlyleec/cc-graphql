@@ -7,6 +7,7 @@ const climbmax = require('./climbmax');
 const carlylegen = require('./carlylegen');
 const kbr = require('./kbr');
 const usarmy = require('./usarmy');
+const grow = require('./grow');
 
 module.exports = [
   coasasr,
@@ -18,4 +19,5 @@ module.exports = [
   carlylegen,
   kbr,
   usarmy,
+  grow,
 ];

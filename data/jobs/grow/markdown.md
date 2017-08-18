@@ -1,0 +1,3 @@
+- Worked with development team and product managers to create new features for Grow.com using React, MobX, Express, and Postgres
+- Diagnosed and resolved bugs in a variety software contexts
+- Development and deployed a companion Chrome extension for Grow.com

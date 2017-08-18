@@ -10,6 +10,7 @@ const usarmy = require('./usarmy');
 const grow = require('./grow');
 
 module.exports = [
+  grow,
   coasasr,
   coasa2,
   locusse,
@@ -19,5 +20,4 @@ module.exports = [
   carlylegen,
   kbr,
   usarmy,
-  grow,
 ];
